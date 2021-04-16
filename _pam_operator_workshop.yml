@@ -1,0 +1,16 @@
+---
+id: "pam_operator_workshop"
+name: "Getting Started with Business Automation Operator"
+
+content:
+  url: https://raw.githubusercontent.com/kmacedovarela/pam-operator-workshop.git/master
+
+modules:
+  activate:
+  - operator-ocp4
+  - trial-environment
+  - version-upgrade
+  - reconciliation
+  - configuration
+  - configmaps-deleteapp
+  - installer

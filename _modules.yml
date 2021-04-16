@@ -1,0 +1,18 @@
+config:
+    renderer: markdown
+
+modules:
+  operator-ocp4:
+    name: Using the Business Automation Operator
+  trial-environment:
+    name: Deploying a trial environment
+  version-upgrade: 
+    name: Versions and the Operator
+  reconciliation:
+    name: Automatic reconciliation
+  configuration:
+    name: Kie App Configuration
+  configmaps-deleteapp:
+    name: ConfigMaps and Deleteting Projects
+  installer:
+    name: Operator Wizard
